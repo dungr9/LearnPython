@@ -1,5 +1,5 @@
 # The 6.00 Word Game
-
+import math # import math module for the most popular mathematical
 import random
 import string
 
